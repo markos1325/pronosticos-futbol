@@ -48,9 +48,20 @@ def api(path, ttl=6 * 3600, **params):
     hit = cache.get(k)
     if hit and time.time() - hit["t"] < ttl:
         return hit["d"]
-    r = requests.get(BASE + path, headers={"x-apisports-key": KEY},
-                     params=params, timeout=30)
-    r.raise_for_status()
+    for intento in range(6):
+        r = requests.get(BASE + path, headers={"x-apisports-key": KEY},
+                         params=params, timeout=30)
+        if r.status_code == 429:
+            espera = int(r.headers.get("Retry-After", 3 * (intento + 1)))
+            print(f"Límite de peticiones alcanzado, esperando {espera}s...")
+            time.sleep(espera)
+            continue
+        r.raise_for_status()
+        break
+    else:
+        print("No se pudo completar la petición tras varios intentos:", path)
+        return []
+    time.sleep(0.25)  # pausa entre peticiones para no saturar el límite por minuto
     j = r.json()
     if j.get("errors"):
         print("Aviso de la API:", j["errors"])
