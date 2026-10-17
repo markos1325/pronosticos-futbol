@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "bot-pronosticos"
           git config user.email "bot@users.noreply.github.com"
-          git add resultados.json
+          git add resultados.json cache.json
           git commit -m "Actualizacion automatica" || echo "Sin cambios"
           git push
