@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pronósticos de fútbol</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="theme-color" content="#1a7f4b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Pronósticos">
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+--bg:#f4f6f5;--card:#fff;--tx:#14201a;--mu:#5d6b63;--ac:#1a7f4b;--w:#1a7f4b;--d:#b8860b;--l:#c0392b;--bd:#dfe5e1}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1512;--card:#182019;--tx:#e8f0ea;--mu:#93a39a;--ac:#3ecf85;--w:#3ecf85;--d:#e0b040;--l:#ef6b5b;--bd:#26322a}}
+:root[data-theme="dark"]{--bg:#0f1512;--card:#182019;--tx:#e8f0ea;--mu:#93a39a;--ac:#3ecf85;--w:#3ecf85;--d:#e0b040;--l:#ef6b5b;--bd:#26322a}
+html{scroll-padding-top:env(safe-area-inset-top,0px);height:100%}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:520px;margin:0 auto;padding:14px;min-height:100%}
+h1{font-size:20px;margin:6px 0 2px}
+.sub{color:var(--mu);font-size:13px;margin-bottom:12px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:8px;margin-bottom:6px}
+.chip{flex:none;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:20px;padding:6px 12px;font-size:13px;cursor:pointer}
+.chip.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:12px;margin-bottom:12px}
+.top{display:flex;justify-content:space-between;color:var(--mu);font-size:12px;margin-bottom:8px}
+.teams{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.t b{display:block;font-size:15px;margin-bottom:4px}
+.form{display:flex;gap:3px;margin-bottom:4px}
+.f{width:20px;height:20px;border-radius:5px;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center}
+.G{background:var(--w)}.E{background:var(--d)}.P{background:var(--l)}
+.st{font-size:12px;color:var(--mu);line-height:1.5}
+.sec{margin-top:8px;padding-top:6px;border-top:1px solid var(--bd)}
+.bar{display:flex;height:22px;border-radius:6px;overflow:hidden;margin:12px 0 4px;font-size:11px;color:#fff;font-weight:600}
+.bar div{display:flex;align-items:center;justify-content:center}
+.leg{display:flex;justify-content:space-between;font-size:11px;color:var(--mu)}
+.row{display:flex;justify-content:space-between;font-size:13px;margin-top:8px;padding-top:8px;border-top:1px solid var(--bd)}
+.pick{margin-top:8px;font-size:13px;font-weight:600;color:var(--ac)}
+.foot{font-size:11px;color:var(--mu);margin:8px 0 20px}
+.empty{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:16px;font-size:13px;color:var(--mu)}
+</style>
+</head>
+<body>
+<h1>⚽ Partidos de hoy</h1>
+<div class="sub" id="sub">Cargando...</div>
+<div class="chips" id="chips"></div>
+<div id="list"></div>
+<div class="foot">Las probabilidades son una estimación estadística, no una garantía. Apuesta solo dinero que puedas perder.</div>
+<script>
+var DATA=[], sel="Todas";
+
+function pc(x){return x==null?"-":Math.round(x*100)}
+function n1(x){return x==null?"-":Number(x).toFixed(1)}
+function hora(iso){try{return new Date(iso).toLocaleTimeString([], {hour:"2-digit",minute:"2-digit"})}catch(e){return "-"}}
+function form(s){return (s||"").split("").map(function(c){return '<span class="f '+c+'">'+c+'</span>'}).join("")}
+
+function tiros(lst){
+ if(!lst||!lst.length) return "Sin datos suficientes";
+ return lst.map(function(x){return x.jugador+": "+n1(x.tiros_arco_pj)}).join("<br>")
+}
+
+function team(t){
+ return '<div class="t"><b>'+t.nombre+'</b><div class="form">'+form(t.forma)+'</div>'+
+ '<div class="st">'+t.ganados+'G · '+t.empatados+'E · '+t.perdidos+'P<br>Goles: '+n1(t.goles_favor)+' a favor, '+n1(t.goles_contra)+' en contra</div>'+
+ '<div class="st sec">Córners de local<br>'+n1(t.corners_local.favor)+' a favor · '+n1(t.corners_local.contra)+' en contra</div>'+
+ '<div class="st sec">Córners de visitante<br>'+n1(t.corners_visitante.favor)+' a favor · '+n1(t.corners_visitante.contra)+' en contra</div>'+
+ '<div class="st sec">Tiros al arco por jugador<br>'+tiros(t.top_tiros_arco)+'</div></div>'
+}
+
+function tarjeta(m){
+ var p=m.prediccion;
+ var out='<div class="card"><div class="top"><span>'+m.liga+'</span><span>'+hora(m.hora)+'</span></div>'+
+  '<div class="teams">'+team(m.local)+team(m.visitante)+'</div>';
+ if(p){
+  out+='<div class="bar"><div style="width:'+pc(p.local)+'%;background:var(--w)">'+pc(p.local)+'%</div>'+
+   '<div style="width:'+pc(p.empate)+'%;background:var(--d)">'+pc(p.empate)+'%</div>'+
+   '<div style="width:'+pc(p.visitante)+'%;background:var(--l)">'+pc(p.visitante)+'%</div></div>'+
+   '<div class="leg"><span>Local</span><span>Empate</span><span>Visitante</span></div>'+
+   '<div class="row"><span>Goles proyectados</span><b>'+n1(p.goles_proyectados[0])+' - '+n1(p.goles_proyectados[1])+'</b></div>';
+  if(m.corners_proyectados) out+='<div class="row"><span>Córners proyectados</span><b>'+n1(m.corners_proyectados[0])+' - '+n1(m.corners_proyectados[1])+'</b></div>';
+  out+='<div class="row"><span>Más de 2.5 goles</span><b>'+pc(p.mas_2_5)+'%</b></div>'+
+   '<div class="pick">Pronóstico: '+p.pronostico+'</div>';
+ } else {
+  out+='<div class="row"><span>Sin suficiente historial para pronosticar</span></div>';
+ }
+ return out+'</div>';
+}
+
+function render(){
+ var ls=["Todas"];
+ DATA.forEach(function(m){if(ls.indexOf(m.liga)<0)ls.push(m.liga)});
+ document.getElementById("chips").innerHTML=ls.map(function(l){
+  return '<button class="chip'+(l==sel?' on':'')+'" data-l="'+l+'">'+l+'</button>'
+ }).join("");
+ var f=DATA.filter(function(m){return sel=="Todas"||m.liga==sel});
+ document.getElementById("list").innerHTML=f.length? f.map(tarjeta).join("") :
+  '<div class="empty">No hay partidos guardados para esta liga.</div>';
+}
+
+document.getElementById("chips").addEventListener("click",function(e){
+ var l=e.target.getAttribute("data-l");if(l){sel=l;render()}
+});
+
+fetch("resultados.json?_=" + Date.now())
+ .then(function(r){ if(!r.ok) throw 0; return r.json() })
+ .then(function(j){
+  DATA=j||[];
+  document.getElementById("sub").textContent = DATA.length
+   ? "Actualizado automáticamente · " + DATA.length + " partidos"
+   : "Aún no hay partidos guardados";
+  render();
+ })
+ .catch(function(){
+  document.getElementById("sub").textContent="No se pudo cargar resultados.json";
+  document.getElementById("list").innerHTML='<div class="empty">Todavía no hay datos. Cuando el servidor corra por primera vez, aparecerán aquí.</div>';
+ });
+
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js").catch(function () {});
+}
+</script>
+</body>
+</html>
