@@ -1,835 +1,100 @@
 [
   {
-    "liga": "Champions League",
-    "hora": "2026-11-03T12:45:00-05:00",
+    "liga": "Europa League",
+    "hora": "2026-11-04T10:30:00-05:00",
     "local": {
-      "nombre": "Galatasaray",
-      "forma": "GGGGPG",
-      "ganados": 5,
-      "empatados": 0,
-      "perdidos": 1,
-      "goles_favor": 2.5,
-      "goles_contra": 1.3333333333333333,
-      "corners_local": {
-        "favor": 6.333333333333333,
-        "contra": 3.6666666666666665
-      },
-      "corners_visitante": {
-        "favor": 7.333333333333333,
-        "contra": 5.0
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "V. Osimhen",
-          "tiros_arco_pj": 2.6
-        },
-        {
-          "jugador": "Rafael Leão",
-          "tiros_arco_pj": 0.78
-        },
-        {
-          "jugador": "Gabriel Sara",
-          "tiros_arco_pj": 0.62
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "VfB Stuttgart",
-      "forma": "GGPEPG",
+      "nombre": "Rennes",
+      "forma": "PGEPGG",
       "ganados": 3,
       "empatados": 1,
       "perdidos": 2,
-      "goles_favor": 1.8333333333333333,
-      "goles_contra": 1.1666666666666667,
+      "goles_favor": 2.6666666666666665,
+      "goles_contra": 2.1666666666666665,
       "corners_local": {
-        "favor": 7.5,
-        "contra": 4.5
+        "favor": 9.0,
+        "contra": 4.333333333333333
       },
       "corners_visitante": {
-        "favor": 6.5,
-        "contra": 5.5
+        "favor": 5.333333333333333,
+        "contra": 4.666666666666667
       },
       "top_tiros_arco": [
         {
-          "jugador": "E. Demirović",
-          "tiros_arco_pj": 1.54
+          "jugador": "E. Lepaul",
+          "tiros_arco_pj": 2.11
         },
         {
-          "jugador": "D. Undav",
-          "tiros_arco_pj": 0.62
+          "jugador": "L. Blas",
+          "tiros_arco_pj": 0.6
         },
         {
-          "jugador": "J. Vagnoman",
+          "jugador": "B. Dia",
           "tiros_arco_pj": 0.6
         }
       ]
     },
-    "prediccion": {
-      "goles_proyectados": [
-        1.83,
-        1.58
-      ],
-      "local": 0.44,
-      "empate": 0.224,
-      "visitante": 0.336,
-      "mas_2_5": 0.663,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": [
-      5.9,
-      5.1,
-      11.0
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T12:45:00-05:00",
-    "local": {
-      "nombre": "Shakhtar Donetsk",
-      "forma": "GGEPGG",
-      "ganados": 4,
-      "empatados": 1,
-      "perdidos": 1,
-      "goles_favor": 1.6666666666666667,
-      "goles_contra": 0.5,
-      "corners_local": {
-        "favor": 8.0,
-        "contra": 2.6666666666666665
-      },
-      "corners_visitante": {
-        "favor": 4.0,
-        "contra": 5.0
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "Pedrinho",
-          "tiros_arco_pj": 0.29
-        },
-        {
-          "jugador": "G. Mendoza",
-          "tiros_arco_pj": 0.18
-        },
-        {
-          "jugador": "V. Bondar",
-          "tiros_arco_pj": 0.09
-        }
-      ]
-    },
     "visitante": {
-      "nombre": "Sporting CP",
-      "forma": "GGPPGG",
-      "ganados": 4,
-      "empatados": 0,
-      "perdidos": 2,
-      "goles_favor": 2.0,
-      "goles_contra": 1.1666666666666667,
-      "corners_local": {
-        "favor": 9.0,
-        "contra": 2.0
-      },
-      "corners_visitante": {
-        "favor": 3.0,
-        "contra": 4.666666666666667
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "L. Suárez",
-          "tiros_arco_pj": 1.38
-        },
-        {
-          "jugador": "Pedro Lima",
-          "tiros_arco_pj": 1.0
-        },
-        {
-          "jugador": "Geny Catamo",
-          "tiros_arco_pj": 0.69
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.42,
-        1.25
-      ],
-      "local": 0.409,
-      "empate": 0.259,
-      "visitante": 0.332,
-      "mas_2_5": 0.498,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": [
-      6.3,
-      2.8,
-      9.2
-    ]
-  },
-  {
-    "liga": "Copa del Rey",
-    "hora": "2026-11-03T13:00:00-05:00",
-    "local": {
-      "nombre": "Anaitasuna",
-      "forma": "GGPGPP",
-      "ganados": 3,
-      "empatados": 0,
-      "perdidos": 3,
-      "goles_favor": 2.5,
-      "goles_contra": 1.8333333333333333,
-      "corners_local": {
-        "favor": null,
-        "contra": null
-      },
-      "corners_visitante": {
-        "favor": null,
-        "contra": null
-      },
-      "top_tiros_arco": []
-    },
-    "visitante": {
-      "nombre": "Alaves",
-      "forma": "PEPPEP",
-      "ganados": 0,
-      "empatados": 2,
-      "perdidos": 4,
-      "goles_favor": 0.6666666666666666,
-      "goles_contra": 2.0,
-      "corners_local": {
-        "favor": 3.0,
-        "contra": 5.666666666666667
-      },
-      "corners_visitante": {
-        "favor": 2.6666666666666665,
-        "contra": 3.0
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "L. Boyé",
-          "tiros_arco_pj": 1.0
-        },
-        {
-          "jugador": "M. Díaz",
-          "tiros_arco_pj": 0.91
-        },
-        {
-          "jugador": "Toni Martínez",
-          "tiros_arco_pj": 0.4
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        2.25,
-        1.25
-      ],
-      "local": 0.599,
-      "empate": 0.197,
-      "visitante": 0.203,
-      "mas_2_5": 0.679,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": null
-  },
-  {
-    "liga": "Copa del Rey",
-    "hora": "2026-11-03T13:00:00-05:00",
-    "local": {
-      "nombre": "Pamplona",
-      "forma": "PPGPEE",
-      "ganados": 1,
-      "empatados": 2,
-      "perdidos": 3,
-      "goles_favor": 0.8333333333333334,
-      "goles_contra": 1.8333333333333333,
-      "corners_local": {
-        "favor": null,
-        "contra": null
-      },
-      "corners_visitante": {
-        "favor": null,
-        "contra": null
-      },
-      "top_tiros_arco": []
-    },
-    "visitante": {
-      "nombre": "Eibar",
-      "forma": "EPEPGG",
-      "ganados": 2,
-      "empatados": 2,
-      "perdidos": 2,
-      "goles_favor": 1.5,
-      "goles_contra": 1.6666666666666667,
-      "corners_local": {
-        "favor": 5.333333333333333,
-        "contra": 3.6666666666666665
-      },
-      "corners_visitante": {
-        "favor": 2.3333333333333335,
-        "contra": 10.666666666666666
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "Iván Gil",
-          "tiros_arco_pj": 0.82
-        },
-        {
-          "jugador": "Malcom Adu",
-          "tiros_arco_pj": 0.8
-        },
-        {
-          "jugador": "Jon Guruzeta",
-          "tiros_arco_pj": 0.75
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.25,
-        1.67
-      ],
-      "local": 0.287,
-      "empate": 0.241,
-      "visitante": 0.472,
-      "mas_2_5": 0.558,
-      "pronostico": "Gana visitante"
-    },
-    "corners_proyectados": null
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Atletico Madrid",
-      "forma": "GGEGGG",
-      "ganados": 5,
-      "empatados": 1,
-      "perdidos": 0,
-      "goles_favor": 1.5,
-      "goles_contra": 0.3333333333333333,
-      "corners_local": {
-        "favor": 2.5,
-        "contra": 4.5
-      },
-      "corners_visitante": {
-        "favor": 7.25,
-        "contra": 4.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "J. David",
-          "tiros_arco_pj": 1.11
-        },
-        {
-          "jugador": "J. Álvarez",
-          "tiros_arco_pj": 1.1
-        },
-        {
-          "jugador": "Álex Baena",
-          "tiros_arco_pj": 0.79
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Bayern München",
-      "forma": "EGGEGE",
-      "ganados": 3,
-      "empatados": 3,
-      "perdidos": 0,
-      "goles_favor": 3.6666666666666665,
-      "goles_contra": 1.6666666666666667,
-      "corners_local": {
-        "favor": 6.25,
-        "contra": 2.5
-      },
-      "corners_visitante": {
-        "favor": 10.5,
-        "contra": 6.0
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "M. Olise",
-          "tiros_arco_pj": 2.31
-        },
-        {
-          "jugador": "H. Kane",
-          "tiros_arco_pj": 1.54
-        },
-        {
-          "jugador": "L. Díaz",
-          "tiros_arco_pj": 1.36
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.58,
-        2.0
-      ],
-      "local": 0.308,
-      "empate": 0.216,
-      "visitante": 0.476,
-      "mas_2_5": 0.694,
-      "pronostico": "Gana visitante"
-    },
-    "corners_proyectados": [
-      4.2,
-      7.5,
-      11.8
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Barcelona",
-      "forma": "GPPGGG",
-      "ganados": 4,
-      "empatados": 0,
-      "perdidos": 2,
-      "goles_favor": 3.5,
-      "goles_contra": 1.6666666666666667,
-      "corners_local": {
-        "favor": 6.333333333333333,
-        "contra": 3.6666666666666665
-      },
-      "corners_visitante": {
-        "favor": 4.666666666666667,
-        "contra": 1.6666666666666667
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "Raphinha",
-          "tiros_arco_pj": 1.93
-        },
-        {
-          "jugador": "Lamine Yamal",
-          "tiros_arco_pj": 1.57
-        },
-        {
-          "jugador": "A. Gordon",
-          "tiros_arco_pj": 1.23
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Aston Villa",
-      "forma": "EPGGGG",
-      "ganados": 4,
-      "empatados": 1,
-      "perdidos": 1,
-      "goles_favor": 2.1666666666666665,
-      "goles_contra": 1.0,
-      "corners_local": {
-        "favor": 7.0,
-        "contra": 6.75
-      },
-      "corners_visitante": {
-        "favor": 3.5,
-        "contra": 5.0
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "N. Jackson",
-          "tiros_arco_pj": 1.5
-        },
-        {
-          "jugador": "J.  McGinn",
-          "tiros_arco_pj": 0.53
-        },
-        {
-          "jugador": "E. Buendía",
-          "tiros_arco_pj": 0.5
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        2.25,
-        1.92
-      ],
-      "local": 0.463,
-      "empate": 0.2,
-      "visitante": 0.337,
-      "mas_2_5": 0.785,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": [
-      5.7,
-      3.6,
-      9.2
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Bodo/Glimt",
-      "forma": "GPPGGG",
-      "ganados": 4,
-      "empatados": 0,
-      "perdidos": 2,
-      "goles_favor": 2.0,
-      "goles_contra": 1.3333333333333333,
-      "corners_local": {
-        "favor": 6.0,
-        "contra": 4.0
-      },
-      "corners_visitante": {
-        "favor": 5.0,
-        "contra": 1.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "K. Høgh",
-          "tiros_arco_pj": 1.42
-        },
-        {
-          "jugador": "A. Helmersen",
-          "tiros_arco_pj": 1.07
-        },
-        {
-          "jugador": "P. Berg",
-          "tiros_arco_pj": 0.7
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Lille",
-      "forma": "GEPEPG",
-      "ganados": 2,
-      "empatados": 2,
-      "perdidos": 2,
-      "goles_favor": 1.0,
-      "goles_contra": 1.5,
-      "corners_local": {
-        "favor": 5.5,
-        "contra": 3.0
-      },
-      "corners_visitante": {
-        "favor": 0.5,
-        "contra": 6.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "A. Ueda",
-          "tiros_arco_pj": 1.33
-        },
-        {
-          "jugador": "O. Giroud",
-          "tiros_arco_pj": 0.45
-        },
-        {
-          "jugador": "H. Haraldsson",
-          "tiros_arco_pj": 0.42
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.75,
-        1.17
-      ],
-      "local": 0.51,
-      "empate": 0.236,
-      "visitante": 0.254,
-      "mas_2_5": 0.558,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": [
-      6.2,
-      2.2,
-      8.5
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Feyenoord",
-      "forma": "EEPGGG",
-      "ganados": 3,
-      "empatados": 2,
-      "perdidos": 1,
-      "goles_favor": 1.8333333333333333,
-      "goles_contra": 1.3333333333333333,
-      "corners_local": {
-        "favor": 6.0,
-        "contra": 2.6666666666666665
-      },
-      "corners_visitante": {
-        "favor": 5.666666666666667,
-        "contra": 5.666666666666667
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "S. Steijn",
-          "tiros_arco_pj": 1.57
-        },
-        {
-          "jugador": "A. Hadj-Moussa",
-          "tiros_arco_pj": 1.54
-        },
-        {
-          "jugador": "A. Ueda",
-          "tiros_arco_pj": 1.5
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Inter",
-      "forma": "PGGGGP",
-      "ganados": 4,
-      "empatados": 0,
-      "perdidos": 2,
-      "goles_favor": 2.0,
-      "goles_contra": 1.5,
-      "corners_local": {
-        "favor": 5.0,
-        "contra": 3.0
-      },
-      "corners_visitante": {
-        "favor": 7.666666666666667,
-        "contra": 2.6666666666666665
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "Lautaro Martínez",
-          "tiros_arco_pj": 1.71
-        },
-        {
-          "jugador": "M. Thuram",
-          "tiros_arco_pj": 1.33
-        },
-        {
-          "jugador": "N. Barella",
-          "tiros_arco_pj": 0.58
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.67,
-        1.67
-      ],
-      "local": 0.386,
-      "empate": 0.229,
-      "visitante": 0.386,
-      "mas_2_5": 0.647,
-      "pronostico": "Gana visitante"
-    },
-    "corners_proyectados": [
-      4.3,
-      5.2,
-      9.5
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Lask Linz",
-      "forma": "GGPGGP",
-      "ganados": 4,
-      "empatados": 0,
-      "perdidos": 2,
-      "goles_favor": 3.0,
-      "goles_contra": 2.6666666666666665,
-      "corners_local": {
-        "favor": 2.6666666666666665,
-        "contra": 4.666666666666667
-      },
-      "corners_visitante": {
-        "favor": 8.0,
-        "contra": 5.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "S. Adeniran",
-          "tiros_arco_pj": 1.33
-        },
-        {
-          "jugador": "C. Lang",
-          "tiros_arco_pj": 1.06
-        },
-        {
-          "jugador": "M. Usor",
-          "tiros_arco_pj": 0.86
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Slovan Bratislava",
-      "forma": "GGEPGP",
-      "ganados": 3,
-      "empatados": 1,
-      "perdidos": 2,
-      "goles_favor": 1.5,
-      "goles_contra": 1.6666666666666667,
-      "corners_local": {
-        "favor": 3.5,
-        "contra": 5.0
-      },
-      "corners_visitante": {
-        "favor": 5.0,
-        "contra": 4.333333333333333
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "Tag Eldin Ibrahim",
-          "tiros_arco_pj": 0.5
-        },
-        {
-          "jugador": "R. Čerepkai",
-          "tiros_arco_pj": 0.43
-        },
-        {
-          "jugador": "T. Barseghyan",
-          "tiros_arco_pj": 0.41
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        2.33,
-        2.08
-      ],
-      "local": 0.448,
-      "empate": 0.195,
-      "visitante": 0.357,
-      "mas_2_5": 0.816,
-      "pronostico": "Gana local"
-    },
-    "corners_proyectados": [
-      3.5,
-      4.8,
-      8.3
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Manchester United",
-      "forma": "PPPEPE",
-      "ganados": 0,
-      "empatados": 2,
-      "perdidos": 4,
-      "goles_favor": 0.5,
-      "goles_contra": 2.1666666666666665,
-      "corners_local": {
-        "favor": 4.5,
-        "contra": 4.0
-      },
-      "corners_visitante": {
-        "favor": 5.333333333333333,
-        "contra": 3.6666666666666665
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "B. Mbeumo",
-          "tiros_arco_pj": 1.08
-        },
-        {
-          "jugador": "A. Diallo",
-          "tiros_arco_pj": 0.83
-        },
-        {
-          "jugador": "Matheus Cunha",
-          "tiros_arco_pj": 0.77
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "AS Roma",
-      "forma": "GGEGGP",
-      "ganados": 4,
-      "empatados": 1,
-      "perdidos": 1,
-      "goles_favor": 3.5,
-      "goles_contra": 1.8333333333333333,
-      "corners_local": {
-        "favor": 6.25,
-        "contra": 5.25
-      },
-      "corners_visitante": {
-        "favor": 7.5,
-        "contra": 4.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "D. Malen",
-          "tiros_arco_pj": 1.75
-        },
-        {
-          "jugador": "P. Dybala",
-          "tiros_arco_pj": 1.0
-        },
-        {
-          "jugador": "M. Soulé",
-          "tiros_arco_pj": 1.0
-        }
-      ]
-    },
-    "prediccion": {
-      "goles_proyectados": [
-        1.17,
-        2.83
-      ],
-      "local": 0.13,
-      "empate": 0.152,
-      "visitante": 0.718,
-      "mas_2_5": 0.759,
-      "pronostico": "Gana visitante"
-    },
-    "corners_proyectados": [
-      4.5,
-      5.8,
-      10.2
-    ]
-  },
-  {
-    "liga": "Champions League",
-    "hora": "2026-11-03T15:00:00-05:00",
-    "local": {
-      "nombre": "Villarreal",
-      "forma": "PGGPEG",
-      "ganados": 3,
-      "empatados": 1,
-      "perdidos": 2,
-      "goles_favor": 2.1666666666666665,
-      "goles_contra": 1.1666666666666667,
-      "corners_local": {
-        "favor": 7.0,
-        "contra": 4.0
-      },
-      "corners_visitante": {
-        "favor": 5.5,
-        "contra": 6.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "G. Mikautadze",
-          "tiros_arco_pj": 1.14
-        },
-        {
-          "jugador": "N. Pépé",
-          "tiros_arco_pj": 1.12
-        },
-        {
-          "jugador": "T. Buchanan",
-          "tiros_arco_pj": 0.73
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Paris Saint Germain",
+      "nombre": "Olympiakos Piraeus",
       "forma": "GGGGGG",
       "ganados": 6,
       "empatados": 0,
       "perdidos": 0,
-      "goles_favor": 3.5,
-      "goles_contra": 1.1666666666666667,
+      "goles_favor": 2.3333333333333335,
+      "goles_contra": 0.3333333333333333,
       "corners_local": {
-        "favor": 4.333333333333333,
-        "contra": 3.6666666666666665
+        "favor": 10.5,
+        "contra": 2.0
+      },
+      "corners_visitante": {
+        "favor": 3.3333333333333335,
+        "contra": 8.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "A. El Kaabi",
+          "tiros_arco_pj": 1.6
+        },
+        {
+          "jugador": "M. Mouandilmadji",
+          "tiros_arco_pj": 0.6
+        },
+        {
+          "jugador": "Gelson Martins",
+          "tiros_arco_pj": 0.54
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        2.25
+      ],
+      "local": 0.253,
+      "empate": 0.201,
+      "visitante": 0.545,
+      "mas_2_5": 0.722,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      8.5,
+      3.8,
+      12.3
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T12:45:00-05:00",
+    "local": {
+      "nombre": "AEK Athens FC",
+      "forma": "PPGPEP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": 9.0,
+        "contra": 3.0
       },
       "corners_visitante": {
         "favor": 3.6666666666666665,
@@ -837,182 +102,343 @@
       },
       "top_tiros_arco": [
         {
-          "jugador": "Ferran Torres",
-          "tiros_arco_pj": 1.42
+          "jugador": "B. Varga",
+          "tiros_arco_pj": 0.82
         },
         {
-          "jugador": "O. Dembélé",
-          "tiros_arco_pj": 1.2
+          "jugador": "L. Jović",
+          "tiros_arco_pj": 0.79
         },
         {
-          "jugador": "K. Kvaratskhelia",
-          "tiros_arco_pj": 1.0
+          "jugador": "R. Marin",
+          "tiros_arco_pj": 0.69
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Real Madrid",
+      "forma": "GGGGGG",
+      "ganados": 6,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": 3.0,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 5.666666666666667,
+        "contra": 2.0
+      },
+      "corners_visitante": {
+        "favor": 7.0,
+        "contra": 5.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Kylian Mbappé",
+          "tiros_arco_pj": 2.86
+        },
+        {
+          "jugador": "A. Güler",
+          "tiros_arco_pj": 0.87
+        },
+        {
+          "jugador": "J. Bellingham",
+          "tiros_arco_pj": 0.86
         }
       ]
     },
     "prediccion": {
       "goles_proyectados": [
-        1.67,
-        2.33
+        1.17,
+        2.58
       ],
-      "local": 0.275,
-      "empate": 0.197,
-      "visitante": 0.528,
-      "mas_2_5": 0.761,
+      "local": 0.152,
+      "empate": 0.17,
+      "visitante": 0.678,
+      "mas_2_5": 0.722,
       "pronostico": "Gana visitante"
     },
     "corners_proyectados": [
-      6.7,
-      3.8,
-      10.5
+      7.0,
+      5.0,
+      12.0
     ]
   },
   {
-    "liga": "Liga BetPlay",
-    "hora": "2026-11-03T15:30:00-05:00",
+    "liga": "Champions League",
+    "hora": "2026-11-04T12:45:00-05:00",
     "local": {
-      "nombre": "Deportivo Pereira",
-      "forma": "GEGEEP",
+      "nombre": "Fenerbahçe",
+      "forma": "PPEGPG",
       "ganados": 2,
-      "empatados": 3,
-      "perdidos": 1,
-      "goles_favor": 0.8333333333333334,
-      "goles_contra": 1.0,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 2.0,
       "corners_local": {
         "favor": 4.0,
-        "contra": 7.333333333333333
+        "contra": 5.333333333333333
       },
       "corners_visitante": {
-        "favor": 1.0,
-        "contra": 9.0
+        "favor": 5.333333333333333,
+        "contra": 7.0
       },
       "top_tiros_arco": [
         {
-          "jugador": "M. Pérez",
-          "tiros_arco_pj": 0.67
+          "jugador": "Talisca",
+          "tiros_arco_pj": 2.43
         },
         {
-          "jugador": "J. Quiñones",
-          "tiros_arco_pj": 0.58
+          "jugador": "V. Muriqi",
+          "tiros_arco_pj": 1.19
         },
         {
-          "jugador": "J. Largacha",
-          "tiros_arco_pj": 0.57
+          "jugador": "M. Greenwood",
+          "tiros_arco_pj": 1.06
         }
       ]
     },
     "visitante": {
-      "nombre": "Deportes Tolima",
-      "forma": "PPPEEE",
-      "ganados": 0,
-      "empatados": 3,
-      "perdidos": 3,
-      "goles_favor": 0.8333333333333334,
-      "goles_contra": 1.3333333333333333,
+      "nombre": "Liverpool",
+      "forma": "PEGGGG",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 2.5,
+      "goles_contra": 1.5,
       "corners_local": {
-        "favor": 9.5,
-        "contra": 0.5
+        "favor": 6.25,
+        "contra": 3.25
       },
       "corners_visitante": {
-        "favor": 4.25,
-        "contra": 4.0
+        "favor": 10.0,
+        "contra": 3.0
       },
       "top_tiros_arco": [
         {
-          "jugador": "L. Sandoval",
-          "tiros_arco_pj": 0.74
+          "jugador": "D. Szoboszlai",
+          "tiros_arco_pj": 0.89
         },
         {
-          "jugador": "Y. Hurtado",
-          "tiros_arco_pj": 0.67
+          "jugador": "A. Isak",
+          "tiros_arco_pj": 0.75
         },
         {
-          "jugador": "E. Valencia",
-          "tiros_arco_pj": 0.61
+          "jugador": "C. Gakpo",
+          "tiros_arco_pj": 0.7
         }
       ]
     },
     "prediccion": {
       "goles_proyectados": [
-        1.08,
-        0.92
+        1.58,
+        2.25
       ],
-      "local": 0.39,
-      "empate": 0.307,
-      "visitante": 0.303,
-      "mas_2_5": 0.323,
-      "pronostico": "Gana local"
+      "local": 0.27,
+      "empate": 0.202,
+      "visitante": 0.528,
+      "mas_2_5": 0.736,
+      "pronostico": "Gana visitante"
     },
     "corners_proyectados": [
-      4.0,
-      5.8,
-      9.8
+      3.5,
+      7.7,
+      11.2
     ]
   },
   {
-    "liga": "Liga BetPlay",
-    "hora": "2026-11-03T18:20:00-05:00",
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T13:00:00-05:00",
     "local": {
-      "nombre": "Deportivo Pasto",
-      "forma": "PGPPEP",
+      "nombre": "Portugalete",
+      "forma": "EEEGPP",
       "ganados": 1,
-      "empatados": 1,
-      "perdidos": 4,
-      "goles_favor": 0.3333333333333333,
-      "goles_contra": 1.5,
-      "corners_local": {
-        "favor": 3.5,
-        "contra": 1.0
-      },
-      "corners_visitante": {
-        "favor": 2.5,
-        "contra": 3.5
-      },
-      "top_tiros_arco": [
-        {
-          "jugador": "A. Estupiñán",
-          "tiros_arco_pj": 1.26
-        },
-        {
-          "jugador": "S. Córdoba",
-          "tiros_arco_pj": 0.5
-        },
-        {
-          "jugador": "W. Morelo",
-          "tiros_arco_pj": 0.25
-        }
-      ]
-    },
-    "visitante": {
-      "nombre": "Jaguares",
-      "forma": "PGPPGP",
-      "ganados": 2,
-      "empatados": 0,
-      "perdidos": 4,
-      "goles_favor": 1.0,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.5,
       "goles_contra": 1.8333333333333333,
       "corners_local": {
-        "favor": 2.5,
-        "contra": 8.0
+        "favor": null,
+        "contra": null
       },
       "corners_visitante": {
-        "favor": 5.666666666666667,
-        "contra": 5.666666666666667
+        "favor": null,
+        "contra": null
       },
-      "top_tiros_arco": [
-        {
-          "jugador": "A. Rentería",
-          "tiros_arco_pj": 0.9
-        },
-        {
-          "jugador": "C. Álvarez",
-          "tiros_arco_pj": 0.41
-        },
-        {
-          "jugador": "D. López",
-          "tiros_arco_pj": 0.35
-        }
-      ]
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Real Unión",
+      "forma": "PGEEEP",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.5
+      ],
+      "local": 0.378,
+      "empate": 0.243,
+      "visitante": 0.378,
+      "mas_2_5": 0.577,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T14:00:00-05:00",
+    "local": {
+      "nombre": "Amorebieta",
+      "forma": "GGGPGP",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "UD Logroñés",
+      "forma": "PGEPGG",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 2.0,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.42,
+        1.42
+      ],
+      "local": 0.374,
+      "empate": 0.251,
+      "visitante": 0.374,
+      "mas_2_5": 0.538,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T14:30:00-05:00",
+    "local": {
+      "nombre": "Deportiva Minera",
+      "forma": "GGGGPE",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "FC Cartagena",
+      "forma": "PPGEGG",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.33
+      ],
+      "local": 0.412,
+      "empate": 0.25,
+      "visitante": 0.337,
+      "mas_2_5": 0.538,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T14:30:00-05:00",
+    "local": {
+      "nombre": "Reddis",
+      "forma": "PEEGPG",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Barakaldo",
+      "forma": "EEGPEE",
+      "ganados": 1,
+      "empatados": 4,
+      "perdidos": 1,
+      "goles_favor": 1.0,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
     },
     "prediccion": {
       "goles_proyectados": [
@@ -1025,10 +451,987 @@
       "mas_2_5": 0.413,
       "pronostico": "Gana visitante"
     },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T14:30:00-05:00",
+    "local": {
+      "nombre": "Utebo",
+      "forma": "EEPEEP",
+      "ganados": 0,
+      "empatados": 4,
+      "perdidos": 2,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Sabadell",
+      "forma": "PEPGEE",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 7.5,
+        "contra": 2.5
+      },
+      "corners_visitante": {
+        "favor": 4.75,
+        "contra": 5.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "N. Gioacchini",
+          "tiros_arco_pj": 1.2
+        },
+        {
+          "jugador": "Ángel Baena",
+          "tiros_arco_pj": 0.67
+        },
+        {
+          "jugador": "Javi López",
+          "tiros_arco_pj": 0.5
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        0.83,
+        0.92
+      ],
+      "local": 0.31,
+      "empate": 0.334,
+      "visitante": 0.356,
+      "mas_2_5": 0.256,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T14:45:00-05:00",
+    "local": {
+      "nombre": "Calvo Sotelo",
+      "forma": "PEPEPG",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Albacete",
+      "forma": "GGPPPP",
+      "ganados": 2,
+      "empatados": 0,
+      "perdidos": 4,
+      "goles_favor": 1.0,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": 7.666666666666667,
+        "contra": 3.3333333333333335
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 4.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "José Corpas",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "Víctor Valverde",
+          "tiros_arco_pj": 0.5
+        },
+        {
+          "jugador": "Mario Soberón",
+          "tiros_arco_pj": 0.45
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.25
+      ],
+      "local": 0.43,
+      "empate": 0.253,
+      "visitante": 0.316,
+      "mas_2_5": 0.519,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "Borussia Dortmund",
+      "forma": "EGGGEP",
+      "ganados": 3,
+      "empatados": 2,
+      "perdidos": 1,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 8.5,
+        "contra": 2.0
+      },
+      "corners_visitante": {
+        "favor": 6.5,
+        "contra": 4.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "S. Guirassy",
+          "tiros_arco_pj": 1.46
+        },
+        {
+          "jugador": "Fábio Silva",
+          "tiros_arco_pj": 0.92
+        },
+        {
+          "jugador": "F. Nmecha",
+          "tiros_arco_pj": 0.71
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Real Betis",
+      "forma": "GEGPGG",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": 5.8,
+        "contra": 3.4
+      },
+      "corners_visitante": {
+        "favor": 4.0,
+        "contra": 3.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Antony",
+          "tiros_arco_pj": 1.23
+        },
+        {
+          "jugador": "Isco",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "A. Ezzalzouli",
+          "tiros_arco_pj": 1.0
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.58
+      ],
+      "local": 0.362,
+      "empate": 0.239,
+      "visitante": 0.399,
+      "mas_2_5": 0.595,
+      "pronostico": "Gana visitante"
+    },
     "corners_proyectados": [
-      4.6,
-      3.3,
-      7.9
+      5.8,
+      3.0,
+      8.8
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "FC Porto",
+      "forma": "GGGPPG",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": 5.0,
+        "contra": 1.5
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 3.3333333333333335
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "S. Giménez",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "Borja Sainz",
+          "tiros_arco_pj": 0.79
+        },
+        {
+          "jugador": "Gabri Veiga",
+          "tiros_arco_pj": 0.71
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Napoli",
+      "forma": "PGEGPP",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 2.0,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": 2.0,
+        "contra": 8.0
+      },
+      "corners_visitante": {
+        "favor": 5.5,
+        "contra": 4.75
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "S. McTominay",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "N. Lang",
+          "tiros_arco_pj": 0.8
+        },
+        {
+          "jugador": "M. Politano",
+          "tiros_arco_pj": 0.77
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.92,
+        1.42
+      ],
+      "local": 0.493,
+      "empate": 0.222,
+      "visitante": 0.285,
+      "mas_2_5": 0.647,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      4.9,
+      3.5,
+      8.4
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "Lens",
+      "forma": "PGPGPG",
+      "ganados": 3,
+      "empatados": 0,
+      "perdidos": 3,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 6.333333333333333,
+        "contra": 2.6666666666666665
+      },
+      "corners_visitante": {
+        "favor": 3.6666666666666665,
+        "contra": 5.666666666666667
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "F. Thauvin",
+          "tiros_arco_pj": 1.46
+        },
+        {
+          "jugador": "O. Édouard",
+          "tiros_arco_pj": 0.67
+        },
+        {
+          "jugador": "J. Kadile",
+          "tiros_arco_pj": 0.57
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Como",
+      "forma": "GGGGGP",
+      "ganados": 5,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 2.5,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 3.5,
+        "contra": 4.0
+      },
+      "corners_visitante": {
+        "favor": 3.0,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "T. Douvikas",
+          "tiros_arco_pj": 1.31
+        },
+        {
+          "jugador": "M. Kean",
+          "tiros_arco_pj": 0.75
+        },
+        {
+          "jugador": "L. da Cunha",
+          "tiros_arco_pj": 0.46
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.08,
+        2.0
+      ],
+      "local": 0.2,
+      "empate": 0.214,
+      "visitante": 0.586,
+      "mas_2_5": 0.595,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      5.2,
+      2.8,
+      8.0
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "PSV Eindhoven",
+      "forma": "GEGPPG",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 2.0,
+      "goles_contra": 0.6666666666666666,
+      "corners_local": {
+        "favor": 7.0,
+        "contra": 4.0
+      },
+      "corners_visitante": {
+        "favor": 5.666666666666667,
+        "contra": 3.6666666666666665
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "S. Mijnans",
+          "tiros_arco_pj": 0.92
+        },
+        {
+          "jugador": "R. Pepi",
+          "tiros_arco_pj": 0.89
+        },
+        {
+          "jugador": "G. Til",
+          "tiros_arco_pj": 0.86
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Club Brugge KV",
+      "forma": "GGGGGG",
+      "ganados": 6,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": 3.1666666666666665,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": 2.5,
+        "contra": 4.5
+      },
+      "corners_visitante": {
+        "favor": 7.0,
+        "contra": 4.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "N. Tresoldi",
+          "tiros_arco_pj": 1.46
+        },
+        {
+          "jugador": "H. Vetlesen",
+          "tiros_arco_pj": 0.92
+        },
+        {
+          "jugador": "Carlos Forbs",
+          "tiros_arco_pj": 0.92
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.67,
+        1.92
+      ],
+      "local": 0.34,
+      "empate": 0.218,
+      "visitante": 0.441,
+      "mas_2_5": 0.694,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      5.7,
+      5.5,
+      11.2
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "RB Leipzig",
+      "forma": "GGGPPG",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.8333333333333333,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": 5.0,
+        "contra": 9.0
+      },
+      "corners_visitante": {
+        "favor": 4.5,
+        "contra": 6.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "A. Nusa",
+          "tiros_arco_pj": 1.15
+        },
+        {
+          "jugador": "Rômulo",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "C. Nkunku",
+          "tiros_arco_pj": 0.89
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Manchester City",
+      "forma": "PEPGGP",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": 6.4,
+        "contra": 3.4
+      },
+      "corners_visitante": {
+        "favor": 7.0,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "E. Haaland",
+          "tiros_arco_pj": 2.0
+        },
+        {
+          "jugador": "R. Cherki",
+          "tiros_arco_pj": 0.86
+        },
+        {
+          "jugador": "A. Semenyo",
+          "tiros_arco_pj": 0.7
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.92,
+        2.0
+      ],
+      "local": 0.379,
+      "empate": 0.209,
+      "visitante": 0.412,
+      "mas_2_5": 0.749,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      4.5,
+      8.0,
+      12.5
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "Slavia Praha",
+      "forma": "GGEEEP",
+      "ganados": 2,
+      "empatados": 3,
+      "perdidos": 1,
+      "goles_favor": 2.0,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": 9.5,
+        "contra": 3.0
+      },
+      "corners_visitante": {
+        "favor": 6.333333333333333,
+        "contra": 2.3333333333333335
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "M. Chytil",
+          "tiros_arco_pj": 0.86
+        },
+        {
+          "jugador": "L. Provod",
+          "tiros_arco_pj": 0.85
+        },
+        {
+          "jugador": "T. Chorý",
+          "tiros_arco_pj": 0.8
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Arsenal",
+      "forma": "GEGEGG",
+      "ganados": 4,
+      "empatados": 2,
+      "perdidos": 0,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": 9.5,
+        "contra": 1.5
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 5.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "B. Saka",
+          "tiros_arco_pj": 1.09
+        },
+        {
+          "jugador": "K. Havertz",
+          "tiros_arco_pj": 0.71
+        },
+        {
+          "jugador": "C. Tzolis",
+          "tiros_arco_pj": 0.67
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.25,
+        1.25
+      ],
+      "local": 0.365,
+      "empate": 0.27,
+      "visitante": 0.365,
+      "mas_2_5": 0.456,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      7.2,
+      4.0,
+      11.2
+    ]
+  },
+  {
+    "liga": "Champions League",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "Viking",
+      "forma": "PGPGEG",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 2.3333333333333335,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": 5.666666666666667,
+        "contra": 7.0
+      },
+      "corners_visitante": {
+        "favor": 4.333333333333333,
+        "contra": 8.666666666666666
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "P. Christiansen",
+          "tiros_arco_pj": 1.17
+        },
+        {
+          "jugador": "E. Botheim",
+          "tiros_arco_pj": 1.1
+        },
+        {
+          "jugador": "Z. Tripić",
+          "tiros_arco_pj": 0.59
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Sabah FA",
+      "forma": "PEPGGE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": 3.5,
+        "contra": 7.5
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "J. Mickels",
+          "tiros_arco_pj": 0.91
+        },
+        {
+          "jugador": "U. Rahmonaliyev",
+          "tiros_arco_pj": 0.64
+        },
+        {
+          "jugador": "V. Simić",
+          "tiros_arco_pj": 0.45
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.58,
+        1.75
+      ],
+      "local": 0.351,
+      "empate": 0.228,
+      "visitante": 0.421,
+      "mas_2_5": 0.647,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-04T15:00:00-05:00",
+    "local": {
+      "nombre": "Badajoz",
+      "forma": "EEGGEE",
+      "ganados": 2,
+      "empatados": 4,
+      "perdidos": 0,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Tenerife",
+      "forma": "EEEEPE",
+      "ganados": 0,
+      "empatados": 5,
+      "perdidos": 1,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 2.3333333333333335,
+        "contra": 2.6666666666666665
+      },
+      "corners_visitante": {
+        "favor": 5.666666666666667,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Enric Gallego",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "C. Gomis",
+          "tiros_arco_pj": 0.75
+        },
+        {
+          "jugador": "Nacho Gil",
+          "tiros_arco_pj": 0.4
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.17,
+        0.92
+      ],
+      "local": 0.415,
+      "empate": 0.298,
+      "visitante": 0.287,
+      "mas_2_5": 0.346,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-04T17:00:00-05:00",
+    "local": {
+      "nombre": "Sporting Baie-Mahault",
+      "forma": "GGEGEP",
+      "ganados": 3,
+      "empatados": 2,
+      "perdidos": 1,
+      "goles_favor": 1.5,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Siroco Les Abymes",
+      "forma": "GEEGEP",
+      "ganados": 2,
+      "empatados": 3,
+      "perdidos": 1,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.17,
+        1.08
+      ],
+      "local": 0.377,
+      "empate": 0.287,
+      "visitante": 0.336,
+      "mas_2_5": 0.391,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-04T18:30:00-05:00",
+    "local": {
+      "nombre": "Cucuta",
+      "forma": "PPGGGG",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 5.75,
+        "contra": 3.5
+      },
+      "corners_visitante": {
+        "favor": 2.5,
+        "contra": 8.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "L. Hernández",
+          "tiros_arco_pj": 0.78
+        },
+        {
+          "jugador": "G. Torres",
+          "tiros_arco_pj": 0.64
+        },
+        {
+          "jugador": "L. Ríos",
+          "tiros_arco_pj": 0.44
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Santa Fe",
+      "forma": "PPGGPE",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.0,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 4.0,
+        "contra": 3.0
+      },
+      "corners_visitante": {
+        "favor": 3.0,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "H. Rodallega",
+          "tiros_arco_pj": 1.23
+        },
+        {
+          "jugador": "N. Bustos",
+          "tiros_arco_pj": 0.61
+        },
+        {
+          "jugador": "E. Mosquera",
+          "tiros_arco_pj": 0.5
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.0
+      ],
+      "local": 0.488,
+      "empate": 0.26,
+      "visitante": 0.252,
+      "mas_2_5": 0.456,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      4.9,
+      3.2,
+      8.1
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-04T20:30:00-05:00",
+    "local": {
+      "nombre": "Millonarios",
+      "forma": "EGEEEE",
+      "ganados": 1,
+      "empatados": 5,
+      "perdidos": 0,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": 4.0,
+        "contra": 1.5
+      },
+      "corners_visitante": {
+        "favor": 3.6666666666666665,
+        "contra": 2.6666666666666665
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "R. Contreras",
+          "tiros_arco_pj": 1.12
+        },
+        {
+          "jugador": "F. Chaverra",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "L. Castro",
+          "tiros_arco_pj": 0.92
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "America de Cali",
+      "forma": "GGGEPG",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 3.6666666666666665,
+        "contra": 4.666666666666667
+      },
+      "corners_visitante": {
+        "favor": 6.0,
+        "contra": 4.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Y. Guzmán",
+          "tiros_arco_pj": 0.95
+        },
+        {
+          "jugador": "E. Tortolero",
+          "tiros_arco_pj": 0.62
+        },
+        {
+          "jugador": "L. Quiñones",
+          "tiros_arco_pj": 0.57
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        1.67
+      ],
+      "local": 0.307,
+      "empate": 0.239,
+      "visitante": 0.453,
+      "mas_2_5": 0.577,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      4.2,
+      3.8,
+      8.0
     ]
   }
 ]
