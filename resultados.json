@@ -1,46 +1,98 @@
 [
   {
     "liga": "Coupe de France",
-    "hora": "2026-11-13T14:00:00-05:00",
+    "hora": "2026-11-14T08:00:00-05:00",
     "local": {
-      "nombre": "Dijon",
-      "forma": "GGPPGE",
-      "ganados": 3,
+      "nombre": "Balagne",
+      "forma": "PPEGPG",
+      "ganados": 2,
       "empatados": 1,
-      "perdidos": 2,
-      "goles_favor": 2.1666666666666665,
-      "goles_contra": 1.8333333333333333,
+      "perdidos": 3,
+      "goles_favor": 1.0,
+      "goles_contra": 1.3333333333333333,
       "corners_local": {
-        "favor": 5.666666666666667,
-        "contra": 2.6666666666666665
+        "favor": null,
+        "contra": null
       },
       "corners_visitante": {
-        "favor": 3.5,
-        "contra": 5.0
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Montpellier",
+      "forma": "PGGGGE",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": 6.333333333333333,
+        "contra": 4.333333333333333
+      },
+      "corners_visitante": {
+        "favor": 3.6666666666666665,
+        "contra": 6.0
       },
       "top_tiros_arco": [
         {
-          "jugador": "Júlio Tavares",
-          "tiros_arco_pj": 0.82
+          "jugador": "M. Camara",
+          "tiros_arco_pj": 1.33
         },
         {
-          "jugador": "A. Lembezat",
-          "tiros_arco_pj": 0.75
+          "jugador": "N. Pays",
+          "tiros_arco_pj": 0.83
         },
         {
-          "jugador": "Y. Barka",
-          "tiros_arco_pj": 0.62
+          "jugador": "N. Mukiele",
+          "tiros_arco_pj": 0.73
         }
       ]
     },
+    "prediccion": {
+      "goles_proyectados": [
+        0.92,
+        1.75
+      ],
+      "local": 0.195,
+      "empate": 0.234,
+      "visitante": 0.57,
+      "mas_2_5": 0.498,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T08:00:00-05:00",
+    "local": {
+      "nombre": "Le Puy Foot",
+      "forma": "EEGGPG",
+      "ganados": 3,
+      "empatados": 2,
+      "perdidos": 1,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
     "visitante": {
-      "nombre": "Orleans",
-      "forma": "EEPEEP",
+      "nombre": "Diables Noirs",
+      "forma": "EEEEEE",
       "ganados": 0,
-      "empatados": 4,
-      "perdidos": 2,
-      "goles_favor": 1.0,
-      "goles_contra": 1.5,
+      "empatados": 6,
+      "perdidos": 0,
+      "goles_favor": 0.0,
+      "goles_contra": 0.0,
       "corners_local": {
         "favor": null,
         "contra": null
@@ -53,22 +105,217 @@
     },
     "prediccion": {
       "goles_proyectados": [
-        1.83,
-        1.42
+        0.83,
+        0.5
       ],
-      "local": 0.474,
-      "empate": 0.227,
-      "visitante": 0.299,
-      "mas_2_5": 0.63,
+      "local": 0.409,
+      "empate": 0.385,
+      "visitante": 0.206,
+      "mas_2_5": 0.151,
       "pronostico": "Gana local"
     },
     "corners_proyectados": null
   },
   {
     "liga": "Coupe de France",
-    "hora": "2026-11-13T14:00:00-05:00",
+    "hora": "2026-11-14T08:00:00-05:00",
     "local": {
-      "nombre": "La Neuvillette",
+      "nombre": "Tourcoing",
+      "forma": "PPG",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 2.0,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Reims",
+      "forma": "PGEGEP",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 3.0,
+        "contra": 7.0
+      },
+      "corners_visitante": {
+        "favor": 6.666666666666667,
+        "contra": 4.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Y. Fofana",
+          "tiros_arco_pj": 1.5
+        },
+        {
+          "jugador": "M. Daramy",
+          "tiros_arco_pj": 0.73
+        },
+        {
+          "jugador": "A. Tia",
+          "tiros_arco_pj": 0.71
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.75,
+        1.25
+      ],
+      "local": 0.491,
+      "empate": 0.235,
+      "visitante": 0.274,
+      "mas_2_5": 0.577,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T08:00:00-05:00",
+    "local": {
+      "nombre": "Versailles",
+      "forma": "PGGGGE",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 1.5,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Rodez",
+      "forma": "PGGPPG",
+      "ganados": 3,
+      "empatados": 0,
+      "perdidos": 3,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": 6.5,
+        "contra": 4.5
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 5.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "I. Baldé",
+          "tiros_arco_pj": 2.0
+        },
+        {
+          "jugador": "M. Touho",
+          "tiros_arco_pj": 0.8
+        },
+        {
+          "jugador": "D. Pavlović",
+          "tiros_arco_pj": 0.6
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        0.67
+      ],
+      "local": 0.528,
+      "empate": 0.285,
+      "visitante": 0.187,
+      "mas_2_5": 0.323,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T08:30:00-05:00",
+    "local": {
+      "nombre": "Boulay",
+      "forma": "PPG",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 3.3333333333333335,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Sochaux",
+      "forma": "PPPPEG",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.0,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": 10.0,
+        "contra": 5.0
+      },
+      "corners_visitante": {
+        "favor": 5.333333333333333,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "B. Gomel",
+          "tiros_arco_pj": 0.7
+        },
+        {
+          "jugador": "L. Deedson",
+          "tiros_arco_pj": 0.5
+        },
+        {
+          "jugador": "M. Clairicia",
+          "tiros_arco_pj": 0.42
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.58,
+        2.17
+      ],
+      "local": 0.282,
+      "empate": 0.206,
+      "visitante": 0.511,
+      "mas_2_5": 0.722,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T09:00:00-05:00",
+    "local": {
+      "nombre": "Rhone-Crussol",
       "forma": "",
       "ganados": 0,
       "empatados": 0,
@@ -86,12 +333,12 @@
       "top_tiros_arco": []
     },
     "visitante": {
-      "nombre": "Valenciennes",
-      "forma": "EPEPGP",
-      "ganados": 1,
-      "empatados": 2,
-      "perdidos": 3,
-      "goles_favor": 1.3333333333333333,
+      "nombre": "Fréjus St-Raphaël",
+      "forma": "GEGGPP",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 2.3333333333333335,
       "goles_contra": 1.6666666666666667,
       "corners_local": {
         "favor": null,
@@ -108,14 +355,118 @@
   },
   {
     "liga": "Coupe de France",
-    "hora": "2026-11-13T14:00:00-05:00",
+    "hora": "2026-11-14T10:00:00-05:00",
     "local": {
-      "nombre": "St-Philbert Gd Lieu",
-      "forma": "PPEGPP",
+      "nombre": "Chalon",
+      "forma": "PG",
       "ganados": 1,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 1.5,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Hauts Lyonnais",
+      "forma": "PGGEEP",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        0.83
+      ],
+      "local": 0.484,
+      "empate": 0.282,
+      "visitante": 0.234,
+      "mas_2_5": 0.368,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T10:00:00-05:00",
+    "local": {
+      "nombre": "Choisy au Bac",
+      "forma": "PPG",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Caen",
+      "forma": "GEGPGP",
+      "ganados": 3,
       "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        1.67
+      ],
+      "local": 0.307,
+      "empate": 0.239,
+      "visitante": 0.453,
+      "mas_2_5": 0.577,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T10:00:00-05:00",
+    "local": {
+      "nombre": "Vendée Fontenay",
+      "forma": "GGPPPP",
+      "ganados": 2,
+      "empatados": 0,
       "perdidos": 4,
-      "goles_favor": 0.6666666666666666,
+      "goles_favor": 0.8333333333333334,
       "goles_contra": 1.5,
       "corners_local": {
         "favor": null,
@@ -128,13 +479,363 @@
       "top_tiros_arco": []
     },
     "visitante": {
-      "nombre": "La Roche VF",
-      "forma": "GGPGGG",
+      "nombre": "Clermont Foot",
+      "forma": "GEPEPP",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": 4.0,
+        "contra": 4.333333333333333
+      },
+      "corners_visitante": {
+        "favor": 3.5,
+        "contra": 6.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "F. Bianchini",
+          "tiros_arco_pj": 0.75
+        },
+        {
+          "jugador": "Luís Semedo",
+          "tiros_arco_pj": 0.5
+        },
+        {
+          "jugador": "A. Hunou",
+          "tiros_arco_pj": 0.36
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.58
+      ],
+      "local": 0.362,
+      "empate": 0.239,
+      "visitante": 0.399,
+      "mas_2_5": 0.595,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "Cheruy",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Bourg-en-bresse 01",
+      "forma": "EPPPEE",
+      "ganados": 0,
+      "empatados": 3,
+      "perdidos": 3,
+      "goles_favor": 0.5,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "Firminy",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Annecy",
+      "forma": "PPGPGG",
+      "ganados": 3,
+      "empatados": 0,
+      "perdidos": 3,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": 4.0,
+        "contra": 4.5
+      },
+      "corners_visitante": {
+        "favor": 7.333333333333333,
+        "contra": 6.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "T. Rambaud",
+          "tiros_arco_pj": 1.09
+        },
+        {
+          "jugador": "M. Sahi",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "A. Larose",
+          "tiros_arco_pj": 0.5
+        }
+      ]
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "Croix Football IC",
+      "forma": "GGEGGG",
       "ganados": 5,
+      "empatados": 1,
+      "perdidos": 0,
+      "goles_favor": 1.8333333333333333,
+      "goles_contra": 0.16666666666666666,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Thaon",
+      "forma": "EPGEPP",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 1.0,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.75,
+        0.58
+      ],
+      "local": 0.657,
+      "empate": 0.224,
+      "visitante": 0.118,
+      "mas_2_5": 0.413,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "Le Poiré sur Vie",
+      "forma": "PEPGGG",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "USSA Vertou",
+      "forma": "PPPEPG",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.0,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.67,
+        0.92
+      ],
+      "local": 0.55,
+      "empate": 0.243,
+      "visitante": 0.206,
+      "mas_2_5": 0.477,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "St Sebastien",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "La Baule-Le Pouliguen",
+      "forma": "P",
+      "ganados": 0,
       "empatados": 0,
       "perdidos": 1,
-      "goles_favor": 2.0,
+      "goles_favor": 0.0,
       "goles_contra": 1.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:00:00-05:00",
+    "local": {
+      "nombre": "Tinteniac",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Concarneau",
+      "forma": "GPEGEG",
+      "ganados": 3,
+      "empatados": 2,
+      "perdidos": 1,
+      "goles_favor": 1.5,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T11:30:00-05:00",
+    "local": {
+      "nombre": "Koetzingue",
+      "forma": "PP",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 0.5,
+      "goles_contra": 4.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Biesheim",
+      "forma": "GPGGGP",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 2.3333333333333335,
+      "goles_contra": 1.1666666666666667,
       "corners_local": {
         "favor": null,
         "contra": null
@@ -148,26 +849,78 @@
     "prediccion": {
       "goles_proyectados": [
         0.83,
-        1.75
+        3.17
       ],
-      "local": 0.176,
-      "empate": 0.233,
-      "visitante": 0.591,
-      "mas_2_5": 0.477,
+      "local": 0.065,
+      "empate": 0.11,
+      "visitante": 0.825,
+      "mas_2_5": 0.757,
       "pronostico": "Gana visitante"
     },
     "corners_proyectados": null
   },
   {
-    "liga": "Copa del Rey",
-    "hora": "2026-11-13T15:00:00-05:00",
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
     "local": {
-      "nombre": "Salamanca UDS",
-      "forma": "GGPEPG",
-      "ganados": 3,
-      "empatados": 1,
+      "nombre": "Amnéville",
+      "forma": "PPPPPP",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 6,
+      "goles_favor": 0.5,
+      "goles_contra": 4.666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Sundhoffen",
+      "forma": "PP",
+      "ganados": 0,
+      "empatados": 0,
       "perdidos": 2,
-      "goles_favor": 1.6666666666666667,
+      "goles_favor": 0.0,
+      "goles_contra": 3.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.75,
+        2.33
+      ],
+      "local": 0.291,
+      "empate": 0.198,
+      "visitante": 0.511,
+      "mas_2_5": 0.773,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Caen PTT",
+      "forma": "PGGGPP",
+      "ganados": 3,
+      "empatados": 0,
+      "perdidos": 3,
+      "goles_favor": 1.8333333333333333,
       "goles_contra": 1.5,
       "corners_local": {
         "favor": null,
@@ -180,129 +933,2355 @@
       "top_tiros_arco": []
     },
     "visitante": {
-      "nombre": "Celta Vigo",
-      "forma": "EPPEGG",
-      "ganados": 2,
-      "empatados": 2,
+      "nombre": "Chambly Thelle FC",
+      "forma": "GGGPGP",
+      "ganados": 4,
+      "empatados": 0,
       "perdidos": 2,
-      "goles_favor": 0.8333333333333334,
+      "goles_favor": 2.0,
       "goles_contra": 1.1666666666666667,
       "corners_local": {
-        "favor": 5.0,
-        "contra": 2.5
+        "favor": null,
+        "contra": null
       },
       "corners_visitante": {
-        "favor": 4.5,
-        "contra": 3.0
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.5,
+        1.75
+      ],
+      "local": 0.332,
+      "empate": 0.23,
+      "visitante": 0.438,
+      "mas_2_5": 0.63,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "ASPTT Dijon",
+      "forma": "EPEPPG",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Selongey",
+      "forma": "PEPPGP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.5,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.75,
+        1.67
+      ],
+      "local": 0.404,
+      "empate": 0.226,
+      "visitante": 0.37,
+      "mas_2_5": 0.663,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Racing Besançon",
+      "forma": "EPGEEP",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "APM Metz",
+      "forma": "GPEPPP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.67,
+        1.33
+      ],
+      "local": 0.453,
+      "empate": 0.239,
+      "visitante": 0.307,
+      "mas_2_5": 0.577,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Stade Béthunois",
+      "forma": "PEEEPG",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 3.0,
+        "contra": 4.0
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Nancy",
+      "forma": "GGGGGP",
+      "ganados": 5,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 0.6666666666666666,
+      "corners_local": {
+        "favor": 4.0,
+        "contra": 3.6666666666666665
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 8.0
       },
       "top_tiros_arco": [
         {
-          "jugador": "Pablo Durán",
-          "tiros_arco_pj": 1.17
+          "jugador": "B. Bokangu",
+          "tiros_arco_pj": 1.25
         },
         {
-          "jugador": "Hugo González",
-          "tiros_arco_pj": 0.78
+          "jugador": "Z. Fdaouch",
+          "tiros_arco_pj": 0.75
         },
         {
-          "jugador": "C. Starfelt",
+          "jugador": "P. Meïssa Ba",
           "tiros_arco_pj": 0.5
         }
       ]
     },
     "prediccion": {
       "goles_proyectados": [
-        1.42,
-        1.17
+        0.67,
+        1.58
       ],
-      "local": 0.427,
-      "empate": 0.262,
-      "visitante": 0.31,
+      "local": 0.155,
+      "empate": 0.25,
+      "visitante": 0.595,
+      "mas_2_5": 0.391,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      5.5,
+      4.5,
+      10.0
+    ]
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Châteaubriant",
+      "forma": "GEEPEP",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Horizon Patho",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Saint-Brieuc",
+      "forma": "PPE",
+      "ganados": 0,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 2.6666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Rouen",
+      "forma": "GGPGPG",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.42,
+        2.17
+      ],
+      "local": 0.248,
+      "empate": 0.206,
+      "visitante": 0.546,
+      "mas_2_5": 0.694,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Contres",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Linas-Montlhery",
+      "forma": "EPPEEP",
+      "ganados": 0,
+      "empatados": 3,
+      "perdidos": 3,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Dunkerque",
+      "forma": "GPEGPP",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 4.333333333333333,
+        "contra": 5.0
+      },
+      "corners_visitante": {
+        "favor": 5.5,
+        "contra": 6.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "T. Robinet",
+          "tiros_arco_pj": 1.75
+        },
+        {
+          "jugador": "M. Niang",
+          "tiros_arco_pj": 0.5
+        },
+        {
+          "jugador": "A. Lebeau",
+          "tiros_arco_pj": 0.45
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Quevilly",
+      "forma": "GPGPEE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.25,
+        1.33
+      ],
+      "local": 0.348,
+      "empate": 0.265,
+      "visitante": 0.387,
       "mas_2_5": 0.477,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Cournon",
+      "forma": "PPGE",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.75,
+      "goles_contra": 2.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Chassieu Décines",
+      "forma": "PGGEEE",
+      "ganados": 2,
+      "empatados": 3,
+      "perdidos": 1,
+      "goles_favor": 2.6666666666666665,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.46,
+        2.58
+      ],
+      "local": 0.203,
+      "empate": 0.18,
+      "visitante": 0.617,
+      "mas_2_5": 0.766,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Grau-du-Roi",
+      "forma": "P",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 0.0,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Riviera",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Le Touquet",
+      "forma": "PEGEEE",
+      "ganados": 1,
+      "empatados": 4,
+      "perdidos": 1,
+      "goles_favor": 2.0,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Avranches",
+      "forma": "GGGGPE",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 1.5,
+      "goles_contra": 0.16666666666666666,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.08,
+        1.67
+      ],
+      "local": 0.247,
+      "empate": 0.243,
+      "visitante": 0.51,
+      "mas_2_5": 0.518,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Lyon Duchere",
+      "forma": "EEGPGP",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Feurs",
+      "forma": "EPEGEE",
+      "ganados": 1,
+      "empatados": 4,
+      "perdidos": 1,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.67,
+        1.33
+      ],
+      "local": 0.453,
+      "empate": 0.239,
+      "visitante": 0.307,
+      "mas_2_5": 0.577,
       "pronostico": "Gana local"
     },
     "corners_proyectados": null
   },
   {
-    "liga": "Liga BetPlay",
-    "hora": "2026-11-13T20:30:00-05:00",
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
     "local": {
-      "nombre": "Internacional de Bogota",
-      "forma": "PPGPGG",
-      "ganados": 3,
+      "nombre": "Cheminots Paray",
+      "forma": "PG",
+      "ganados": 1,
       "empatados": 0,
-      "perdidos": 3,
-      "goles_favor": 1.8333333333333333,
-      "goles_contra": 1.3333333333333333,
+      "perdidos": 1,
+      "goles_favor": 0.5,
+      "goles_contra": 2.0,
       "corners_local": {
-        "favor": 4.0,
-        "contra": 8.0
+        "favor": null,
+        "contra": null
       },
       "corners_visitante": {
-        "favor": 6.5,
-        "contra": 7.0
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Villefranche",
+      "forma": "PEGPPP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        1.42
+      ],
+      "local": 0.353,
+      "empate": 0.255,
+      "visitante": 0.391,
+      "mas_2_5": 0.519,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Pontivy GSI",
+      "forma": "PEEPEP",
+      "ganados": 0,
+      "empatados": 3,
+      "perdidos": 3,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "TA Rennes",
+      "forma": "EPGEEP",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.0,
+        1.33
+      ],
+      "local": 0.28,
+      "empate": 0.276,
+      "visitante": 0.443,
+      "mas_2_5": 0.413,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "SAG Cestas",
+      "forma": "GGEEGP",
+      "ganados": 3,
+      "empatados": 2,
+      "perdidos": 1,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Bayonne",
+      "forma": "EPGPEG",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.17,
+        1.17
+      ],
+      "local": 0.359,
+      "empate": 0.281,
+      "visitante": 0.359,
+      "mas_2_5": 0.413,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Saint-Omer",
+      "forma": "EPEEPG",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": 5.0,
+        "contra": 4.0
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Vire",
+      "forma": "EGGEGE",
+      "ganados": 3,
+      "empatados": 3,
+      "perdidos": 0,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 0.16666666666666666,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        0.67,
+        1.33
+      ],
+      "local": 0.187,
+      "empate": 0.285,
+      "visitante": 0.528,
+      "mas_2_5": 0.323,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "St Ouen l'Aumône",
+      "forma": "PGEEEP",
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Boulogne",
+      "forma": "GPEGEP",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 3.5,
+        "contra": 6.0
+      },
+      "corners_visitante": {
+        "favor": 5.0,
+        "contra": 5.333333333333333
       },
       "top_tiros_arco": [
         {
-          "jugador": "I. Poveda",
-          "tiros_arco_pj": 0.88
+          "jugador": "A. Hbouch",
+          "tiros_arco_pj": 1.08
         },
         {
-          "jugador": "F. Sanguinetti",
-          "tiros_arco_pj": 0.81
+          "jugador": "B. Besic",
+          "tiros_arco_pj": 0.67
         },
         {
-          "jugador": "D. Duarte",
-          "tiros_arco_pj": 0.72
+          "jugador": "N. Fatar",
+          "tiros_arco_pj": 0.56
         }
       ]
     },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        1.42
+      ],
+      "local": 0.353,
+      "empate": 0.255,
+      "visitante": 0.391,
+      "mas_2_5": 0.519,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Strasbourg Koenigshoffen",
+      "forma": "PEPPGP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 2.6666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
     "visitante": {
-      "nombre": "Santa Fe",
-      "forma": "GPPPGG",
+      "nombre": "Oberlauterbach",
+      "forma": "P",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 0.0,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.83,
+        1.33
+      ],
+      "local": 0.492,
+      "empate": 0.228,
+      "visitante": 0.28,
+      "mas_2_5": 0.613,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Vesoul",
+      "forma": "PPPPPE",
+      "ganados": 0,
+      "empatados": 1,
+      "perdidos": 5,
+      "goles_favor": 1.0,
+      "goles_contra": 3.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Fleury 91",
+      "forma": "PEGGPE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.17,
+        2.08
+      ],
+      "local": 0.207,
+      "empate": 0.208,
+      "visitante": 0.584,
+      "mas_2_5": 0.63,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:00:00-05:00",
+    "local": {
+      "nombre": "Vitré",
+      "forma": "PGEGEP",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Saint-Pierre Milizac",
+      "forma": "GEPPPP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.0,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        0.92
+      ],
+      "local": 0.463,
+      "empate": 0.279,
+      "visitante": 0.257,
+      "mas_2_5": 0.391,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T12:30:00-05:00",
+    "local": {
+      "nombre": "Balma",
+      "forma": "PPGGGG",
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 1.6666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Castanet",
+      "forma": "EPGPPP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        2.08,
+        1.17
+      ],
+      "local": 0.584,
+      "empate": 0.208,
+      "visitante": 0.207,
+      "mas_2_5": 0.63,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Avenir Foot Lozère",
+      "forma": "PPGPPG",
+      "ganados": 2,
+      "empatados": 0,
+      "perdidos": 4,
+      "goles_favor": 1.5,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Entente Crest-Aouste",
+      "forma": "PG",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 1.0,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.0,
+        1.5
+      ],
+      "local": 0.252,
+      "empate": 0.26,
+      "visitante": 0.488,
+      "mas_2_5": 0.456,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Boulazac",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Anglet Genets",
+      "forma": "GPPEGP",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Bressuire",
+      "forma": "PGPPEP",
+      "ganados": 1,
+      "empatados": 1,
+      "perdidos": 4,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 2.3333333333333335,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Challans",
+      "forma": "GGGEPG",
+      "ganados": 4,
+      "empatados": 1,
+      "perdidos": 1,
+      "goles_favor": 3.0,
+      "goles_contra": 0.8333333333333334,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.0,
+        2.67
+      ],
+      "local": 0.118,
+      "empate": 0.155,
+      "visitante": 0.727,
+      "mas_2_5": 0.707,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Brive",
+      "forma": "PPPE",
+      "ganados": 0,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 0.0,
+      "goles_contra": 1.75,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Angoulême",
+      "forma": "GGGGEG",
+      "ganados": 5,
+      "empatados": 1,
+      "perdidos": 0,
+      "goles_favor": 1.5,
+      "goles_contra": 0.6666666666666666,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        0.33,
+        1.62
+      ],
+      "local": 0.071,
+      "empate": 0.229,
+      "visitante": 0.7,
+      "mas_2_5": 0.312,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Buxerolles",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Sablé",
+      "forma": "EPPEGP",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Chauny",
+      "forma": "PP",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 2,
+      "goles_favor": 0.0,
+      "goles_contra": 4.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Le Pays du Valois",
+      "forma": "PEGGPE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.8333333333333333,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        0.67,
+        2.92
+      ],
+      "local": 0.057,
+      "empate": 0.115,
+      "visitante": 0.828,
+      "mas_2_5": 0.691,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Claira/Laurent",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Puissalicon",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "CPB Brequigny",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Montluçon",
+      "forma": "PGPPPP",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 5,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 3.6666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Lannion",
+      "forma": "PPPPEE",
+      "ganados": 0,
+      "empatados": 2,
+      "perdidos": 4,
+      "goles_favor": 0.5,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Guingamp",
+      "forma": "PGGPPG",
       "ganados": 3,
       "empatados": 0,
       "perdidos": 3,
-      "goles_favor": 1.5,
+      "goles_favor": 1.3333333333333333,
       "goles_contra": 1.1666666666666667,
       "corners_local": {
-        "favor": 3.5,
-        "contra": 3.0
+        "favor": 5.0,
+        "contra": 6.5
       },
       "corners_visitante": {
-        "favor": 4.5,
-        "contra": 1.5
+        "favor": 3.0,
+        "contra": 4.0
       },
       "top_tiros_arco": [
         {
-          "jugador": "H. Rodallega",
-          "tiros_arco_pj": 1.28
+          "jugador": "T. Averlant",
+          "tiros_arco_pj": 0.92
         },
         {
-          "jugador": "N. Bustos",
-          "tiros_arco_pj": 0.61
+          "jugador": "S. Kielt",
+          "tiros_arco_pj": 0.73
         },
         {
-          "jugador": "E. Mosquera",
-          "tiros_arco_pj": 0.5
+          "jugador": "S. Ben Brahim",
+          "tiros_arco_pj": 0.67
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        0.83,
+        1.33
+      ],
+      "local": 0.234,
+      "empate": 0.282,
+      "visitante": 0.484,
+      "mas_2_5": 0.368,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Lourdes",
+      "forma": "PPGPPP",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 5,
+      "goles_favor": 1.5,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "PAU",
+      "forma": "PGGGGG",
+      "ganados": 5,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 2.1666666666666665,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 3.0,
+        "contra": 3.0
+      },
+      "corners_visitante": {
+        "favor": 3.0,
+        "contra": 6.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "B. Leye",
+          "tiros_arco_pj": 0.92
+        },
+        {
+          "jugador": "H. Benali",
+          "tiros_arco_pj": 0.64
+        },
+        {
+          "jugador": "L. Rajot",
+          "tiros_arco_pj": 0.42
         }
       ]
     },
     "prediccion": {
       "goles_proyectados": [
         1.5,
-        1.42
+        2.17
       ],
-      "local": 0.395,
-      "empate": 0.247,
-      "visitante": 0.358,
-      "mas_2_5": 0.558,
+      "local": 0.265,
+      "empate": 0.206,
+      "visitante": 0.529,
+      "mas_2_5": 0.708,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Macaire",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Nueillaubiers",
+      "forma": "P",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 0.0,
+      "goles_contra": 5.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T13:00:00-05:00",
+    "local": {
+      "nombre": "Stade Bordelais",
+      "forma": "PPPEEP",
+      "ganados": 0,
+      "empatados": 2,
+      "perdidos": 4,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Mazeres",
+      "forma": "PG",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 1,
+      "goles_favor": 2.0,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.33,
+        2.0
+      ],
+      "local": 0.254,
+      "empate": 0.217,
+      "visitante": 0.529,
+      "mas_2_5": 0.647,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T14:00:00-05:00",
+    "local": {
+      "nombre": "OM Cambrai",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Amiens",
+      "forma": "GEEGEG",
+      "ganados": 3,
+      "empatados": 3,
+      "perdidos": 0,
+      "goles_favor": 1.6666666666666667,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Águilas Doradas",
+      "forma": "PGGPGE",
+      "ganados": 3,
+      "empatados": 1,
+      "perdidos": 2,
+      "goles_favor": 1.0,
+      "goles_contra": 0.6666666666666666,
+      "corners_local": {
+        "favor": 3.5,
+        "contra": 2.0
+      },
+      "corners_visitante": {
+        "favor": 5.25,
+        "contra": 6.75
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "J. Varela",
+          "tiros_arco_pj": 0.67
+        },
+        {
+          "jugador": "J. Obregón",
+          "tiros_arco_pj": 0.47
+        },
+        {
+          "jugador": "M. Ramírez",
+          "tiros_arco_pj": 0.41
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Independiente Medellin",
+      "forma": "GGPPPP",
+      "ganados": 2,
+      "empatados": 0,
+      "perdidos": 4,
+      "goles_favor": 1.5,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": 6.5,
+        "contra": 3.0
+      },
+      "corners_visitante": {
+        "favor": 7.0,
+        "contra": 5.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "F. Fydriszewski",
+          "tiros_arco_pj": 0.72
+        },
+        {
+          "jugador": "F. Chaverra",
+          "tiros_arco_pj": 0.7
+        },
+        {
+          "jugador": "J. Quintero",
+          "tiros_arco_pj": 0.6
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.42,
+        1.08
+      ],
+      "local": 0.446,
+      "empate": 0.265,
+      "visitante": 0.288,
+      "mas_2_5": 0.456,
       "pronostico": "Gana local"
     },
     "corners_proyectados": [
-      2.8,
-      6.2,
-      9.0
+      4.2,
+      4.5,
+      8.8
     ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Atletico Nacional",
+      "forma": "EEGEGG",
+      "ganados": 3,
+      "empatados": 3,
+      "perdidos": 0,
+      "goles_favor": 2.0,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": 4.333333333333333,
+        "contra": 4.0
+      },
+      "corners_visitante": {
+        "favor": 2.0,
+        "contra": 7.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "A. Morelos",
+          "tiros_arco_pj": 1.09
+        },
+        {
+          "jugador": "E. Cardona",
+          "tiros_arco_pj": 0.76
+        },
+        {
+          "jugador": "A. Sarmiento",
+          "tiros_arco_pj": 0.75
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Once Caldas",
+      "forma": "EGGGEE",
+      "ganados": 3,
+      "empatados": 3,
+      "perdidos": 0,
+      "goles_favor": 1.1666666666666667,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": 9.333333333333334,
+        "contra": 2.3333333333333335
+      },
+      "corners_visitante": {
+        "favor": 3.0,
+        "contra": 5.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "D. Moreno",
+          "tiros_arco_pj": 1.16
+        },
+        {
+          "jugador": "J. Zapata",
+          "tiros_arco_pj": 1.05
+        },
+        {
+          "jugador": "M. Barrios",
+          "tiros_arco_pj": 0.79
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.25,
+        1.25
+      ],
+      "local": 0.365,
+      "empate": 0.27,
+      "visitante": 0.365,
+      "mas_2_5": 0.456,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      4.7,
+      3.5,
+      8.2
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Bucaramanga",
+      "forma": "GEGPPE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 3.6666666666666665,
+        "contra": 4.333333333333333
+      },
+      "corners_visitante": {
+        "favor": 4.0,
+        "contra": 4.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "F. Sambueza",
+          "tiros_arco_pj": 0.94
+        },
+        {
+          "jugador": "L. Pons",
+          "tiros_arco_pj": 0.89
+        },
+        {
+          "jugador": "F. Salazar",
+          "tiros_arco_pj": 0.39
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Fortaleza FC",
+      "forma": "PPPEPE",
+      "ganados": 0,
+      "empatados": 2,
+      "perdidos": 4,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 1.8333333333333333,
+      "corners_local": {
+        "favor": 6.5,
+        "contra": 2.5
+      },
+      "corners_visitante": {
+        "favor": 3.3333333333333335,
+        "contra": 3.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "A. Arroyo",
+          "tiros_arco_pj": 1.11
+        },
+        {
+          "jugador": "J. Herrera",
+          "tiros_arco_pj": 0.42
+        },
+        {
+          "jugador": "Í. Montaño",
+          "tiros_arco_pj": 0.4
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.67,
+        0.92
+      ],
+      "local": 0.55,
+      "empate": 0.243,
+      "visitante": 0.206,
+      "mas_2_5": 0.477,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      3.3,
+      3.8,
+      7.2
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Cucuta",
+      "forma": "PGPPGG",
+      "ganados": 3,
+      "empatados": 0,
+      "perdidos": 3,
+      "goles_favor": 0.6666666666666666,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": 5.666666666666667,
+        "contra": 5.666666666666667
+      },
+      "corners_visitante": {
+        "favor": 2.6666666666666665,
+        "contra": 7.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "L. Hernández",
+          "tiros_arco_pj": 0.78
+        },
+        {
+          "jugador": "G. Torres",
+          "tiros_arco_pj": 0.62
+        },
+        {
+          "jugador": "L. Ríos",
+          "tiros_arco_pj": 0.44
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Jaguares",
+      "forma": "PPPGPP",
+      "ganados": 1,
+      "empatados": 0,
+      "perdidos": 5,
+      "goles_favor": 0.5,
+      "goles_contra": 2.1666666666666665,
+      "corners_local": {
+        "favor": 5.0,
+        "contra": 7.0
+      },
+      "corners_visitante": {
+        "favor": 4.0,
+        "contra": 6.333333333333333
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "A. Rentería",
+          "tiros_arco_pj": 0.9
+        },
+        {
+          "jugador": "C. Álvarez",
+          "tiros_arco_pj": 0.47
+        },
+        {
+          "jugador": "D. López",
+          "tiros_arco_pj": 0.36
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.42,
+        0.83
+      ],
+      "local": 0.507,
+      "empate": 0.272,
+      "visitante": 0.221,
+      "mas_2_5": 0.391,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      6.0,
+      4.8,
+      10.8
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Deportivo Cali",
+      "forma": "EGEGEE",
+      "ganados": 2,
+      "empatados": 4,
+      "perdidos": 0,
+      "goles_favor": 1.0,
+      "goles_contra": 0.16666666666666666,
+      "corners_local": {
+        "favor": 6.0,
+        "contra": 1.5
+      },
+      "corners_visitante": {
+        "favor": 2.5,
+        "contra": 5.5
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "E. Bello",
+          "tiros_arco_pj": 0.8
+        },
+        {
+          "jugador": "S. Rodríguez",
+          "tiros_arco_pj": 0.76
+        },
+        {
+          "jugador": "J. Dinenno",
+          "tiros_arco_pj": 0.6
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Deportes Tolima",
+      "forma": "GGPPPE",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.3333333333333333,
+      "corners_local": {
+        "favor": 6.0,
+        "contra": 2.0
+      },
+      "corners_visitante": {
+        "favor": 4.75,
+        "contra": 3.75
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "L. Sandoval",
+          "tiros_arco_pj": 0.69
+        },
+        {
+          "jugador": "Y. Hurtado",
+          "tiros_arco_pj": 0.67
+        },
+        {
+          "jugador": "L. Sánchez",
+          "tiros_arco_pj": 0.67
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.17,
+        0.75
+      ],
+      "local": 0.457,
+      "empate": 0.307,
+      "visitante": 0.237,
+      "mas_2_5": 0.301,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      4.9,
+      3.1,
+      8.0
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Millonarios",
+      "forma": "PEEGEE",
+      "ganados": 1,
+      "empatados": 4,
+      "perdidos": 1,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 1.0,
+      "corners_local": {
+        "favor": 5.0,
+        "contra": 2.3333333333333335
+      },
+      "corners_visitante": {
+        "favor": 4.0,
+        "contra": 3.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "R. Contreras",
+          "tiros_arco_pj": 1.08
+        },
+        {
+          "jugador": "J. Cuadrado",
+          "tiros_arco_pj": 1.0
+        },
+        {
+          "jugador": "F. Chaverra",
+          "tiros_arco_pj": 1.0
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "Alianza Valledupar",
+      "forma": "PPPGGE",
+      "ganados": 2,
+      "empatados": 1,
+      "perdidos": 3,
+      "goles_favor": 1.0,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": 7.0,
+        "contra": 4.333333333333333
+      },
+      "corners_visitante": {
+        "favor": 1.6666666666666667,
+        "contra": 7.666666666666667
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "M. Martínez",
+          "tiros_arco_pj": 0.5
+        },
+        {
+          "jugador": "F. Pardo",
+          "tiros_arco_pj": 0.42
+        },
+        {
+          "jugador": "F. Cantillo",
+          "tiros_arco_pj": 0.41
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.25,
+        1.0
+      ],
+      "local": 0.42,
+      "empate": 0.285,
+      "visitante": 0.296,
+      "mas_2_5": 0.391,
+      "pronostico": "Gana local"
+    },
+    "corners_proyectados": [
+      6.3,
+      2.0,
+      8.3
+    ]
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-14T15:30:00-05:00",
+    "local": {
+      "nombre": "Deportivo Pereira",
+      "forma": "PPGEGE",
+      "ganados": 2,
+      "empatados": 2,
+      "perdidos": 2,
+      "goles_favor": 1.5,
+      "goles_contra": 1.5,
+      "corners_local": {
+        "favor": 5.333333333333333,
+        "contra": 7.0
+      },
+      "corners_visitante": {
+        "favor": 1.3333333333333333,
+        "contra": 10.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "M. Pérez",
+          "tiros_arco_pj": 0.65
+        },
+        {
+          "jugador": "J. Quiñones",
+          "tiros_arco_pj": 0.56
+        },
+        {
+          "jugador": "J. Largacha",
+          "tiros_arco_pj": 0.53
+        }
+      ]
+    },
+    "visitante": {
+      "nombre": "America de Cali",
+      "forma": "GEEGGG",
+      "ganados": 4,
+      "empatados": 2,
+      "perdidos": 0,
+      "goles_favor": 1.8333333333333333,
+      "goles_contra": 0.5,
+      "corners_local": {
+        "favor": 5.333333333333333,
+        "contra": 3.0
+      },
+      "corners_visitante": {
+        "favor": 4.0,
+        "contra": 7.0
+      },
+      "top_tiros_arco": [
+        {
+          "jugador": "Y. Guzmán",
+          "tiros_arco_pj": 0.9
+        },
+        {
+          "jugador": "E. Tortolero",
+          "tiros_arco_pj": 0.62
+        },
+        {
+          "jugador": "L. Quiñones",
+          "tiros_arco_pj": 0.56
+        }
+      ]
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.0,
+        1.67
+      ],
+      "local": 0.227,
+      "empate": 0.243,
+      "visitante": 0.53,
+      "mas_2_5": 0.498,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": [
+      6.2,
+      5.5,
+      11.7
+    ]
+  },
+  {
+    "liga": "Coupe de France",
+    "hora": "2026-11-14T23:00:00-05:00",
+    "local": {
+      "nombre": "Tefana",
+      "forma": "EEEPEP",
+      "ganados": 0,
+      "empatados": 4,
+      "perdidos": 2,
+      "goles_favor": 1.3333333333333333,
+      "goles_contra": 2.0,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Thionville Lusitanos",
+      "forma": "GEPPPE",
+      "ganados": 1,
+      "empatados": 2,
+      "perdidos": 3,
+      "goles_favor": 0.8333333333333334,
+      "goles_contra": 1.1666666666666667,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": {
+      "goles_proyectados": [
+        1.25,
+        1.42
+      ],
+      "local": 0.332,
+      "empate": 0.259,
+      "visitante": 0.409,
+      "mas_2_5": 0.498,
+      "pronostico": "Gana visitante"
+    },
+    "corners_proyectados": null
   }
 ]
