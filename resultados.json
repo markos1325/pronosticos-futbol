@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "liga": "Copa Colombia",
+    "hora": "2026-11-17T18:30:00-05:00",
+    "local": {
+      "nombre": "Atletico Nacional",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Once Caldas",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa Colombia",
+    "hora": "2026-11-17T20:30:00-05:00",
+    "local": {
+      "nombre": "America de Cali",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Internacional de Bogota",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  }
+]
