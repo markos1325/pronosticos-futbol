@@ -1,9 +1,9 @@
 [
   {
-    "liga": "Copa Colombia",
-    "hora": "2026-11-17T18:30:00-05:00",
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T13:00:00-05:00",
     "local": {
-      "nombre": "Atletico Nacional",
+      "nombre": "Portugalete",
       "forma": "",
       "ganados": 0,
       "empatados": 0,
@@ -21,7 +21,7 @@
       "top_tiros_arco": []
     },
     "visitante": {
-      "nombre": "Once Caldas",
+      "nombre": "Real Unión",
       "forma": "",
       "ganados": 0,
       "empatados": 0,
@@ -42,10 +42,10 @@
     "corners_proyectados": null
   },
   {
-    "liga": "Copa Colombia",
-    "hora": "2026-11-17T20:30:00-05:00",
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T13:00:00-05:00",
     "local": {
-      "nombre": "America de Cali",
+      "nombre": "Utebo",
       "forma": "",
       "ganados": 0,
       "empatados": 0,
@@ -63,7 +63,175 @@
       "top_tiros_arco": []
     },
     "visitante": {
-      "nombre": "Internacional de Bogota",
+      "nombre": "Sabadell",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T14:00:00-05:00",
+    "local": {
+      "nombre": "Alcoyano",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Mallorca",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T14:00:00-05:00",
+    "local": {
+      "nombre": "Badajoz",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Tenerife",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T14:30:00-05:00",
+    "local": {
+      "nombre": "Deportiva Minera",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "FC Cartagena",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Copa del Rey",
+    "hora": "2026-11-18T14:30:00-05:00",
+    "local": {
+      "nombre": "Reddis",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Barakaldo",
       "forma": "",
       "ganados": 0,
       "empatados": 0,
