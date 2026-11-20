@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "liga": "Bundesliga",
+    "hora": "2026-11-20T14:30:00-05:00",
+    "local": {
+      "nombre": "Bayern München",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "1. FC Köln",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Ligue 1",
+    "hora": "2026-11-20T14:45:00-05:00",
+    "local": {
+      "nombre": "Estac Troyes",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Le Havre",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "LaLiga",
+    "hora": "2026-11-20T15:00:00-05:00",
+    "local": {
+      "nombre": "Athletic Club",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Espanyol",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Taça de Portugal",
+    "hora": "2026-11-20T15:45:00-05:00",
+    "local": {
+      "nombre": "FC Porto",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Paredes",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-20T16:30:00-05:00",
+    "local": {
+      "nombre": "Independiente Medellin",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Santa Fe",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-20T18:35:00-05:00",
+    "local": {
+      "nombre": "Bucaramanga",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "America de Cali",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  },
+  {
+    "liga": "Liga BetPlay",
+    "hora": "2026-11-20T20:40:00-05:00",
+    "local": {
+      "nombre": "Deportivo Cali",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "visitante": {
+      "nombre": "Millonarios",
+      "forma": "",
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "goles_favor": null,
+      "goles_contra": null,
+      "corners_local": {
+        "favor": null,
+        "contra": null
+      },
+      "corners_visitante": {
+        "favor": null,
+        "contra": null
+      },
+      "top_tiros_arco": []
+    },
+    "prediccion": null,
+    "corners_proyectados": null
+  }
+]
